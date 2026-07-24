@@ -73,7 +73,7 @@ how Okta will communicate with the SP during the authentication flow.
   <img width="1033" height="642" alt="image" src="https://github.com/user-attachments/assets/ee0fa695-6dec-46f3-bd92-c01005c7eb5a" />
 </p>
 
-5. On the **Feedback** page check **This  Is An Internal App That We Have Created** then **Finish**
+5. On the **Feedback** page check **This Is An Internal App That We Have Created** then **Finish**
 
 <p align="center">
   <img width="783" height="326" alt="image" src="https://github.com/user-attachments/assets/98fe27f5-4f5a-4ab8-a803-38fc6ba91750" />
